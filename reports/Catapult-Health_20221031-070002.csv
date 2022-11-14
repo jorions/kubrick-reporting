@@ -1,0 +1,109 @@
+User,Client,Project,Description,Tag,Billable?,Start Date,Start,Finish,Duration In Hours
+Pablo Dacoll,Catapult Health,Catapult Health,Review timesheets,1 - Communication/Management,Yes,2022-10-24,2022-10-24T12:30:00.000Z,2022-10-24T13:00:00.000Z,0.5
+Fredy Guevara,Catapult Health,Catapult Health,DEV-10952 - UPP - Don't show clinics not connected to a healthevent slug (when passed),2 - Development,Yes,2022-10-24,2022-10-24T13:00:00.000Z,2022-10-24T14:15:00.000Z,1.25
+Jorge Castaño,Catapult Health,Catapult Health,DEV-10773 Onsite Hybrid - Lab Accessioning,,Yes,2022-10-24,2022-10-24T13:00:00.000Z,2022-10-24T14:15:00.000Z,1.25
+Jared Selcoe,Catapult Health,Catapult Health,Billing discussion,1 - Communication/Management,Yes,2022-10-24,2022-10-24T14:00:00.000Z,2022-10-24T14:20:00.000Z,0.33
+Juan Jose Ramirez,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-24,2022-10-24T14:15:00.000Z,2022-10-24T14:31:00.000Z,0.27
+Fredy Guevara,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-24,2022-10-24T14:15:00.000Z,2022-10-24T14:30:00.000Z,0.25
+Jorge Castaño,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-24,2022-10-24T14:15:00.000Z,2022-10-24T14:30:00.000Z,0.25
+Pablo Dacoll,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-24,2022-10-24T14:15:00.000Z,2022-10-24T14:30:00.000Z,0.25
+Jared Selcoe,Catapult Health,Catapult Health,DEV-10527 - Scheduling - Support Onsite Hybrid Scheduling Flow in UPP,1 - Communication/Management,Yes,2022-10-24,2022-10-24T14:20:00.000Z,2022-10-24T14:30:00.000Z,0.17
+Pablo Dacoll,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-24,2022-10-24T14:30:00.000Z,2022-10-24T14:45:00.000Z,0.25
+Jared Selcoe,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-24,2022-10-24T14:30:00.000Z,2022-10-24T14:54:16.000Z,0.4
+Fredy Guevara,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-24,2022-10-24T14:30:00.000Z,2022-10-24T14:50:53.000Z,0.35
+Jorge Castaño,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-24,2022-10-24T14:30:00.000Z,2022-10-24T14:50:00.000Z,0.33
+Juan Jose Ramirez,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-24,2022-10-24T14:39:13.000Z,2022-10-24T14:50:00.000Z,0.18
+Fredy Guevara,Catapult Health,Catapult Health,DEV-10952 - UPP - Don't show clinics not connected to a healthevent slug (when passed),2 - Development,Yes,2022-10-24,2022-10-24T14:50:00.000Z,2022-10-24T17:00:00.000Z,2.17
+Jorge Castaño,Catapult Health,Catapult Health,DEV-10773 Onsite Hybrid - Lab Accessioning,,Yes,2022-10-24,2022-10-24T14:50:00.000Z,2022-10-24T17:00:00.000Z,2.17
+Jared Selcoe,Catapult Health,Catapult Health,DEV-10527 - Scheduling - Support Onsite Hybrid Scheduling Flow in UPP,1 - Communication/Management,Yes,2022-10-24,2022-10-24T14:54:26.000Z,2022-10-24T21:00:00.000Z,6.09
+Juan Jose Ramirez,Catapult Health,Catapult Health,Wait for new tickets,2 - Development,Yes,2022-10-24,2022-10-24T15:00:00.000Z,2022-10-24T18:00:00.000Z,3
+Jorge Castaño,Catapult Health,Catapult Health,DEV-10773 Onsite Hybrid - Lab Accessioning,,Yes,2022-10-24,2022-10-24T18:00:00.000Z,2022-10-24T23:00:00.000Z,5
+Fredy Guevara,Catapult Health,Catapult Health,DEV-10952 - UPP - Don't show clinics not connected to a healthevent slug (when passed),2 - Development,Yes,2022-10-24,2022-10-24T19:00:00.000Z,2022-10-24T23:00:00.000Z,4
+Juan Jose Ramirez,Catapult Health,Catapult Health,Reviewing ticket DEV-10968 from QA comments,2 - Development,Yes,2022-10-24,2022-10-24T19:13:00.000Z,2022-10-24T21:31:05.000Z,2.3
+Jared Selcoe,Catapult Health,Catapult Health,Various bug discussions,1 - Communication/Management,Yes,2022-10-24,2022-10-24T21:00:00.000Z,2022-10-24T21:46:56.000Z,0.78
+Juan Jose Ramirez,Catapult Health,Catapult Health,DEV-10968 fix QA comments,2 - Development,Yes,2022-10-24,2022-10-24T21:31:07.000Z,2022-10-24T23:47:00.000Z,2.26
+Fredy Guevara,Catapult Health,Catapult Health,DEV-10952 - UPP - Don't show clinics not connected to a healthevent slug (when passed),2 - Development,Yes,2022-10-25,2022-10-25T13:00:00.000Z,2022-10-25T14:30:00.000Z,1.5
+Jorge Castaño,Catapult Health,Catapult Health,DEV-10773 Onsite Hybrid - Lab Accessioning,,Yes,2022-10-25,2022-10-25T13:00:00.000Z,2022-10-25T14:15:00.000Z,1.25
+Jared Selcoe,Catapult Health,Catapult Health,DEV-10527 - Scheduling - Support Onsite Hybrid Scheduling Flow in UPP,1 - Communication/Management,Yes,2022-10-25,2022-10-25T13:50:00.000Z,2022-10-25T14:30:00.000Z,0.67
+Pablo Dacoll,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-25,2022-10-25T14:15:00.000Z,2022-10-25T14:30:00.000Z,0.25
+Jorge Castaño,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-25,2022-10-25T14:15:00.000Z,2022-10-25T14:30:00.000Z,0.25
+Juan Jose Ramirez,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-25,2022-10-25T14:15:00.000Z,2022-10-25T14:30:15.000Z,0.25
+Pablo Dacoll,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-25,2022-10-25T14:30:00.000Z,2022-10-25T14:45:00.000Z,0.25
+Fredy Guevara,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-25,2022-10-25T14:30:00.000Z,2022-10-25T14:47:09.000Z,0.29
+Jared Selcoe,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-25,2022-10-25T14:30:00.000Z,2022-10-25T14:50:00.000Z,0.33
+Jorge Castaño,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-25,2022-10-25T14:30:00.000Z,2022-10-25T14:50:00.000Z,0.33
+Juan Jose Ramirez,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-25,2022-10-25T14:31:00.000Z,2022-10-25T14:45:00.000Z,0.23
+Juan Jose Ramirez,Catapult Health,Catapult Health,Reviewing ticket DEV-10968 from QA comments,2 - Development,Yes,2022-10-25,2022-10-25T14:45:00.000Z,2022-10-25T15:05:00.000Z,0.33
+Fredy Guevara,Catapult Health,Catapult Health,DEV-10952 - UPP - Don't show clinics not connected to a healthevent slug (when passed),2 - Development,Yes,2022-10-25,2022-10-25T14:47:00.000Z,2022-10-25T17:29:00.000Z,2.7
+Jared Selcoe,Catapult Health,Catapult Health,DEV-10527 - Scheduling - Support Onsite Hybrid Scheduling Flow in UPP,1 - Communication/Management,Yes,2022-10-25,2022-10-25T14:50:00.000Z,2022-10-25T19:30:00.000Z,4.67
+Jorge Castaño,Catapult Health,Catapult Health,DEV-10773 Onsite Hybrid - Lab Accessioning,,Yes,2022-10-25,2022-10-25T14:50:00.000Z,2022-10-25T17:00:00.000Z,2.17
+Juan Jose Ramirez,Catapult Health,Catapult Health,Look for new Onsite Tasso tickets,2 - Development,Yes,2022-10-25,2022-10-25T15:06:00.000Z,2022-10-25T17:53:41.000Z,2.79
+Juan Jose Ramirez,Catapult Health,Catapult Health,Look for new Onsite Tasso tickets,2 - Development,Yes,2022-10-25,2022-10-25T17:55:00.000Z,2022-10-25T18:35:00.000Z,0.67
+Fredy Guevara,Catapult Health,Catapult Health,Onsite Tasso Dev,1 - Communication/Management,Yes,2022-10-25,2022-10-25T19:30:00.000Z,2022-10-25T19:52:55.000Z,0.38
+Jared Selcoe,Catapult Health,Catapult Health,Onsite Tasso Dev,1 - Communication/Management,Yes,2022-10-25,2022-10-25T19:30:00.000Z,2022-10-25T19:55:00.000Z,0.42
+Jorge Castaño,Catapult Health,Catapult Health,Onsite Tasso Dev,1 - Communication/Management,Yes,2022-10-25,2022-10-25T19:30:00.000Z,2022-10-25T20:00:00.000Z,0.5
+Juan Jose Ramirez,Catapult Health,Catapult Health,Onsite Tasso Dev,1 - Communication/Management,Yes,2022-10-25,2022-10-25T19:30:00.000Z,2022-10-25T19:54:19.000Z,0.41
+Fredy Guevara,Catapult Health,Catapult Health,DEV-10952 - UPP - Don't show clinics not connected to a healthevent slug (when passed),2 - Development,Yes,2022-10-25,2022-10-25T19:52:00.000Z,2022-10-25T23:00:00.000Z,3.13
+Juan Jose Ramirez,Catapult Health,Catapult Health,Look for new Onsite Tasso tickets,2 - Development,Yes,2022-10-25,2022-10-25T19:54:19.000Z,2022-10-25T23:15:00.000Z,3.34
+Jared Selcoe,Catapult Health,Catapult Health,DEV-10527 - Scheduling - Support Onsite Hybrid Scheduling Flow in UPP,1 - Communication/Management,Yes,2022-10-25,2022-10-25T19:55:00.000Z,2022-10-25T22:01:15.000Z,2.1
+Jorge Castaño,Catapult Health,Catapult Health,DEV-10773 Onsite Hybrid - Lab Accessioning,,Yes,2022-10-25,2022-10-25T20:00:00.000Z,2022-10-25T22:30:00.000Z,2.5
+Fredy Guevara,Catapult Health,Catapult Health,DEV-10781 - Update patient timezone from Patient editor,2 - Development,Yes,2022-10-26,2022-10-26T13:00:00.000Z,2022-10-26T14:15:00.000Z,1.25
+Jorge Castaño,Catapult Health,Catapult Health,DEV-10773 Onsite Hybrid - Lab Accessioning,,Yes,2022-10-26,2022-10-26T13:00:00.000Z,2022-10-26T14:15:00.000Z,1.25
+Jared Selcoe,Catapult Health,Catapult Health,DEV-10527 - Scheduling - Support Onsite Hybrid Scheduling Flow in UPP,1 - Communication/Management,Yes,2022-10-26,2022-10-26T14:00:00.000Z,2022-10-26T14:30:00.000Z,0.5
+Jorge Castaño,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-26,2022-10-26T14:15:00.000Z,2022-10-26T14:30:00.000Z,0.25
+Pablo Dacoll,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-26,2022-10-26T14:15:00.000Z,2022-10-26T14:30:00.000Z,0.25
+Fredy Guevara,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-26,2022-10-26T14:15:00.000Z,2022-10-26T14:30:00.000Z,0.25
+Jared Selcoe,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-26,2022-10-26T14:30:00.000Z,2022-10-26T14:50:00.000Z,0.33
+Pablo Dacoll,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-26,2022-10-26T14:30:00.000Z,2022-10-26T14:50:00.000Z,0.33
+Juan Jose Ramirez,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-26,2022-10-26T14:30:00.000Z,2022-10-26T14:44:03.000Z,0.23
+Fredy Guevara,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-26,2022-10-26T14:30:00.000Z,2022-10-26T14:44:06.000Z,0.23
+Jorge Castaño,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-26,2022-10-26T14:30:00.000Z,2022-10-26T14:50:00.000Z,0.33
+Fredy Guevara,Catapult Health,Catapult Health,DEV-11033 - Bug with HT Comments writes to healthevaljson when NP completes chart,2 - Development,Yes,2022-10-26,2022-10-26T14:44:00.000Z,2022-10-26T17:00:00.000Z,2.27
+Juan Jose Ramirez,Catapult Health,Catapult Health,DEV-11004 - Review Clinic Editor Code and Local Set Up,2 - Development,Yes,2022-10-26,2022-10-26T14:44:03.000Z,2022-10-26T16:51:40.000Z,2.13
+Jorge Castaño,Catapult Health,Catapult Health,DEV-10773 Onsite Hybrid - Lab Accessioning,,Yes,2022-10-26,2022-10-26T14:50:00.000Z,2022-10-26T22:00:00.000Z,7.17
+Jared Selcoe,Catapult Health,Catapult Health,DEV-11034 - Virtual Checkup Service - Lab Result Ingestion is causing Transaction error when multiple OrderType are in the same file,3 - Development (bug),Yes,2022-10-26,2022-10-26T14:50:00.000Z,2022-10-26T18:30:00.000Z,3.67
+Juan Jose Ramirez,Catapult Health,Catapult Health,DEV-11004 - Review Clinic Editor Code and Local Set Up,2 - Development,Yes,2022-10-26,2022-10-26T17:00:00.000Z,2022-10-26T18:43:54.000Z,1.73
+Jared Selcoe,Catapult Health,Catapult Health,Onsite Tasso Accessioning discussion,1 - Communication/Management,Yes,2022-10-26,2022-10-26T18:30:00.000Z,2022-10-26T21:00:00.000Z,2.5
+Fredy Guevara,Catapult Health,Catapult Health,DEV-11033 - Bug with HT Comments writes to healthevaljson when NP completes chart,2 - Development,Yes,2022-10-26,2022-10-26T19:00:00.000Z,2022-10-26T23:00:00.000Z,4
+Jared Selcoe,Catapult Health,Catapult Health,DEV-10527 - Scheduling - Support Onsite Hybrid Scheduling Flow in UPP,1 - Communication/Management,Yes,2022-10-26,2022-10-26T21:00:00.000Z,2022-10-26T22:01:41.000Z,1.03
+Juan Jose Ramirez,Catapult Health,Catapult Health,DEV-11004 - Review Clinic Editor Code,2 - Development,Yes,2022-10-26,2022-10-26T21:25:00.000Z,2022-10-27T01:29:00.000Z,4.07
+Jared Selcoe,Catapult Health,Catapult Health,DEV-10527 - Scheduling - Support Onsite Hybrid Scheduling Flow in UPP,1 - Communication/Management,Yes,2022-10-26,2022-10-27T03:44:34.000Z,2022-10-27T05:28:49.000Z,1.74
+Jorge Castaño,Catapult Health,Catapult Health,DEV-10773 Onsite Hybrid - Lab Accessioning,,Yes,2022-10-27,2022-10-27T13:00:00.000Z,2022-10-27T14:15:00.000Z,1.25
+Fredy Guevara,Catapult Health,Catapult Health,DEV-11007 - Clinic Editor Updates - Clinic Schedule View,2 - Development,Yes,2022-10-27,2022-10-27T13:00:00.000Z,2022-10-27T14:15:00.000Z,1.25
+Jared Selcoe,Catapult Health,Catapult Health,DEV-10527 - Scheduling - Support Onsite Hybrid Scheduling Flow in UPP,1 - Communication/Management,Yes,2022-10-27,2022-10-27T14:10:00.000Z,2022-10-27T14:30:00.000Z,0.33
+Jorge Castaño,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-27,2022-10-27T14:15:00.000Z,2022-10-27T14:30:00.000Z,0.25
+Fredy Guevara,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-27,2022-10-27T14:15:00.000Z,2022-10-27T14:30:00.000Z,0.25
+Juan Jose Ramirez,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-27,2022-10-27T14:15:00.000Z,2022-10-27T14:30:34.000Z,0.26
+Jared Selcoe,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-27,2022-10-27T14:30:00.000Z,2022-10-27T14:53:00.000Z,0.38
+Jorge Castaño,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-27,2022-10-27T14:30:00.000Z,2022-10-27T14:50:00.000Z,0.33
+Juan Jose Ramirez,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-27,2022-10-27T14:31:00.000Z,2022-10-27T14:46:21.000Z,0.26
+Fredy Guevara,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-27,2022-10-27T14:31:33.000Z,2022-10-27T14:48:33.000Z,0.28
+Fredy Guevara,Catapult Health,Catapult Health,DEV-11007 - Clinic Editor Updates - Clinic Schedule View,2 - Development,Yes,2022-10-27,2022-10-27T14:48:00.000Z,2022-10-27T17:00:00.000Z,2.2
+Jorge Castaño,Catapult Health,Catapult Health,DEV-10773 Onsite Hybrid - Lab Accessioning,,Yes,2022-10-27,2022-10-27T14:50:00.000Z,2022-10-27T18:00:00.000Z,3.17
+Jared Selcoe,Catapult Health,Catapult Health,DEV-10527 - Scheduling - Support Onsite Hybrid Scheduling Flow in UPP,1 - Communication/Management,Yes,2022-10-27,2022-10-27T14:53:00.000Z,2022-10-27T16:30:00.000Z,1.62
+Juan Jose Ramirez,Catapult Health,Catapult Health,DEV-11004 - Review SSO Catapult Health,2 - Development,Yes,2022-10-27,2022-10-27T15:00:00.000Z,2022-10-27T18:36:00.000Z,3.6
+Jorge Castaño,Catapult Health,Catapult Health,Meeting with Amogh,1 - Communication/Management,Yes,2022-10-27,2022-10-27T19:00:00.000Z,2022-10-27T20:00:00.000Z,1
+Fredy Guevara,Catapult Health,Catapult Health,DEV-11007 - Clinic Editor Updates - Clinic Schedule View,2 - Development,Yes,2022-10-27,2022-10-27T19:00:00.000Z,2022-10-27T23:00:00.000Z,4
+Jared Selcoe,Catapult Health,Catapult Health,DEV-10527 - Scheduling - Support Onsite Hybrid Scheduling Flow in UPP,1 - Communication/Management,Yes,2022-10-27,2022-10-27T19:40:00.000Z,2022-10-27T20:02:42.000Z,0.38
+Jorge Castaño,Catapult Health,Catapult Health,DEV-10773 Onsite Hybrid - Lab Accessioning,,Yes,2022-10-27,2022-10-27T20:00:00.000Z,2022-10-27T22:00:00.000Z,2
+Juan Jose Ramirez,Catapult Health,Catapult Health,DEV-11004 - Review SSO Catapult Health,2 - Development,Yes,2022-10-27,2022-10-27T21:22:00.000Z,2022-10-28T01:22:29.000Z,4.01
+Jorge Castaño,Catapult Health,Catapult Health,DEV-10773 Onsite Hybrid - Lab Accessioning,,Yes,2022-10-28,2022-10-28T13:00:00.000Z,2022-10-28T14:15:00.000Z,1.25
+Fredy Guevara,Catapult Health,Catapult Health,DEV-11007 - Clinic Editor Updates - Clinic Schedule View,2 - Development,Yes,2022-10-28,2022-10-28T13:00:00.000Z,2022-10-28T14:15:00.000Z,1.25
+Jared Selcoe,Catapult Health,Catapult Health,DEV-10527 - Scheduling - Support Onsite Hybrid Scheduling Flow in UPP,1 - Communication/Management,Yes,2022-10-28,2022-10-28T14:00:00.000Z,2022-10-28T14:30:00.000Z,0.5
+Jorge Castaño,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-28,2022-10-28T14:15:00.000Z,2022-10-28T14:30:00.000Z,0.25
+Fredy Guevara,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-28,2022-10-28T14:15:00.000Z,2022-10-28T14:30:00.000Z,0.25
+Juan Jose Ramirez,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-28,2022-10-28T14:15:00.000Z,2022-10-28T14:30:00.000Z,0.25
+Pablo Dacoll,Catapult Health,Catapult Health,Internal Sync,1 - Communication/Management,Yes,2022-10-28,2022-10-28T14:15:00.000Z,2022-10-28T14:30:00.000Z,0.25
+Fredy Guevara,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-28,2022-10-28T14:30:00.000Z,2022-10-28T15:00:00.000Z,0.5
+Jorge Castaño,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-28,2022-10-28T14:30:00.000Z,2022-10-28T14:50:00.000Z,0.33
+Jared Selcoe,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-28,2022-10-28T14:30:00.000Z,2022-10-28T15:00:00.000Z,0.5
+Pablo Dacoll,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-28,2022-10-28T14:30:00.000Z,2022-10-28T14:45:00.000Z,0.25
+Juan Jose Ramirez,Catapult Health,Catapult Health,Standup,1 - Communication/Management,Yes,2022-10-28,2022-10-28T14:31:00.000Z,2022-10-28T14:59:07.000Z,0.47
+Jorge Castaño,Catapult Health,Catapult Health,DEV-10773 Onsite Hybrid - Lab Accessioning,,Yes,2022-10-28,2022-10-28T14:50:00.000Z,2022-10-28T20:00:00.000Z,5.17
+Juan Jose Ramirez,Catapult Health,Catapult Health,DEV-11004 - Kiosk Lock Screen Component,2 - Development,Yes,2022-10-28,2022-10-28T14:59:43.000Z,2022-10-28T19:01:00.000Z,4.02
+Fredy Guevara,Catapult Health,Catapult Health,DEV-11007 - Clinic Editor Updates - Clinic Schedule View,2 - Development,Yes,2022-10-28,2022-10-28T15:00:00.000Z,2022-10-28T17:00:00.000Z,2
+Jared Selcoe,Catapult Health,Catapult Health,Onsite Collection Portal discussion,1 - Communication/Management,Yes,2022-10-28,2022-10-28T16:12:00.000Z,2022-10-28T16:30:00.000Z,0.3
+Jared Selcoe,Catapult Health,Catapult Health,Internal sync,1 - Communication/Management,Yes,2022-10-28,2022-10-28T16:30:00.000Z,2022-10-28T17:00:00.000Z,0.5
+Jared Selcoe,Catapult Health,Catapult Health,DEV-10527 - Scheduling - Support Onsite Hybrid Scheduling Flow in UPP,1 - Communication/Management,Yes,2022-10-28,2022-10-28T17:00:00.000Z,2022-10-28T23:20:00.000Z,6.33
+Fredy Guevara,Catapult Health,Catapult Health,DEV-11007 - Clinic Editor Updates - Clinic Schedule View,2 - Development,Yes,2022-10-28,2022-10-28T19:00:00.000Z,2022-10-28T23:00:00.000Z,4
+Juan Jose Ramirez,Catapult Health,Catapult Health,DEV-11004 - Kiosk Lock Screen Component,2 - Development,Yes,2022-10-28,2022-10-28T20:07:00.000Z,2022-10-28T23:50:57.000Z,3.73
