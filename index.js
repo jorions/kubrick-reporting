@@ -41,12 +41,12 @@ const fetchUsers = () =>
         id
       }
     }`,
-  }).then(({ users }) => users);
+  }).then(({ users }) => users);  
 
 const fetchReport = async ({ startDate, endDate, clientId, users, clientName }) => {
   const { timeEntriesReportPaginated } = await fetch({
-    operationName: 'TimeEntriesReport',
-    query: `query TimeEntriesReport($input: ReportTimeEntryPaginatedInput!) {
+    operationName: 'timeEntriesReportPaginated',
+    query: `query timeEntriesReportPaginated($input: ReportTimeEntryPaginatedInput!) {
       timeEntriesReportPaginated(input: $input) {
         timeEntries {
           userId
@@ -72,10 +72,11 @@ const fetchReport = async ({ startDate, endDate, clientId, users, clientName }) 
           description: null,
           from: moment(startDate, 'YYYY-MM-DD').startOf('day').toISOString(),
           to: moment(endDate, 'YYYY-MM-DD').endOf('day').toISOString(),
+          exact: false,
         },
         skip: 0,
         take: 1000,
-        sortAttribute: 'started_at',
+        sortAttribute: 'startedAt',
         sortDirection: 'ASC',
       },
     },
